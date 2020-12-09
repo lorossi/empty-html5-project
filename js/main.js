@@ -1,7 +1,5 @@
-/*jshint esversion: 6 */
+/*jshint esversion: 8 */
 /*jshint strict: false */
-
-"use strict";
 
 $(document).ready(() => {
 
